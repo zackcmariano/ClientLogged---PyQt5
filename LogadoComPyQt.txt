@@ -1,0 +1,2 @@
+Demonstração de tela logada, em PyQt5
+usando algoritmo em Python.

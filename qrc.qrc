@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>screenfriendsdesk.png</file>
+    <file>screenfriends.png</file>
+  </qresource>
+</RCC>

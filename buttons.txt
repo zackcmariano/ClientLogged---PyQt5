@@ -1,0 +1,35 @@
+
+SCREENS:
+
+Planos - pushbutton_18 (Fatura)
+	 pushbutton_19 (Amigos)
+	 label (Logo)
+	 label_20 (Plano)
+	 label_9 (Bônus)
+	 pushbutton_14 (Fatura)
+	 pushbutton_15 (Amigos)
+	 pushbutton_21 (Contrato)
+	 pushbutton_16 (Sair)
+
+
+Amigos - pushbutton_11 (Meu Plano)
+	 pushbutton_9 (Fatura)
+	 label_2 (Logo)
+	 pushbutton_12 (Contrato)
+	 pushbutton (Sair)
+	 label (FotoAmigos)
+
+
+Fatura - pushbutton_8 (Meu Plano)
+	 pushbutton_10 (Amigos)
+	 label_8 (Logo)
+	 pushbutton_12 (Contrato)
+	 pushbutton (Sair)
+	 label_16 (Dia Venc)
+	 label_15 (Mês)
+	 label_23 (Preço)
+	 pushbutton_2 (Pagar)
+	 pushbutton_3 (Meu Plano)
+	 pushbutton_5 (Amigo)
+
+
